@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 second 2 , tree 3, for 4, five 5
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+second , tree, for, five, six 
+=======
+<<<<<<< HEAD
+second , tree, for,five , twelve
+=======
+second , tree, for, five , six, matb9awch tzido ..² ,  Nzido 
+
+
+
+=======
+<<<<<<< HEAD
+second , tree, for,five , ten
+>>>>>>> af9d44923ded050e15b41b1c803cffdc55e1c548
+=======
+second , tree, for, five
+>>>>>>> e0f58347289dc9a810beab916d72656a1d4eecb4
+>>>>>>> e1bdb412cd74c944d92187f653c5a3e55bea6545
+>>>>>>> c3fc46c2038610825059165a4ff68309e85dfb98
